@@ -1,0 +1,6 @@
+1. Par poder correrlo uso packages
+2. En este caso, el overloading se aplica en los métodos abrir() y cerrar(), en el que uno no tiene ningún valor de entrada
+y ejecuta automaticamente, mientras que, si poseen un valor de entrada, se abrirá o se cerrará una puerta en específico.
+Aplicado a la vida real, puede ser un sistema de seguridad para casas o empresas, en el que el usuario del sistema puede
+abrir o cerrar puertas remotamente, en este caso, se le daría a elegir si desea abrir o cerrar solo la puerta principal
+o si desea hacerlo con cualquier otra. En este caso sería un sistema bastante primitivo.
